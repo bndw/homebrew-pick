@@ -5,6 +5,6 @@
 ### How to install
 
 ```sh
-$ brew tap leonklingele/pick
-$ brew install leonklingele/pick/pick
+$ brew tap bndw/pick
+$ brew install bndw/pick/pick
 ```
