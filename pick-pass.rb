@@ -1,4 +1,4 @@
-class Pick < Formula
+class PickPass < Formula
   desc "Minimal password manager for OS X and Linux"
   homepage "https://github.com/bndw/pick"
   url "https://github.com/bndw/pick/archive/v0.2.1.tar.gz"

@@ -6,5 +6,5 @@
 
 ```sh
 $ brew tap bndw/pick
-$ brew install bndw/pick/pick
+$ brew install bndw/pick/pick-pass
 ```
